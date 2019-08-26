@@ -53,7 +53,7 @@
 			},
 			{
 				"name": "Spinning Bird Kick",
-				"input": "{charge} :d: :u:+[K] ({airOK})"
+				"input": "{charge} :d: :u:+[K]"
 			},
 			{
 				"name": "Airborne Spinning Bird Kick",
