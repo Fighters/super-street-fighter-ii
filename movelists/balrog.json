@@ -11,7 +11,7 @@
 		}
 	],
 	"images": {
-		"face": "mbison.webp"
+		"face": "balrog.webp"
 	},
 	"moves": {
 		"{normal-throws}": [
