@@ -1,0 +1,30 @@
+{
+    "buttons": {
+        "Arcade": [
+            { "image": "layout.webp" },
+            { "LP": "LP" },
+            { "MP": "MP" },
+            { "HP": "HP" },
+            { "LK": "LK" },
+            { "MK": "MK" },
+            { "HK": "HK" }
+        ],
+        "Super Nintendo": [
+            { "LP": "Y" },
+            { "MP": "X" },
+            { "HP": "L" },
+            { "LK": "B" },
+            { "MK": "A" },
+            { "HK": "R" }
+        ],
+        "Genesis": [
+            { "LP": "X" },
+            { "MP": "Y" },
+            { "HP": "Z" },
+            { "LK": "A" },
+            { "MK": "B" },
+            { "HK": "C" }
+        ]
+    },
+    "hasUpgrades": false
+}

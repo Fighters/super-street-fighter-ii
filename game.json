@@ -1,0 +1,359 @@
+{
+	"romans": {
+		"regions": [
+			{ 
+				"region": "default",
+				"roman": "Super Street Fighter II: The New Challengers"
+			},
+			{
+				"region": "japan",
+				"roman": "Super Street Fighter II: The New Challengers",
+				"original": "スーパーストリートファイターII"
+			}
+		],
+		"also-known-as": [
+			"ssf2", "super", "super sf2"
+		]
+	},
+	"platforms": [
+		{
+			"platform": "Arcade",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"original": "スーパーストリートファイターII",
+					"releaseDate": "09-10-1993",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"region": "United States",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"releaseDate": "09-11-1993",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				},
+				{
+					"region": "Europe",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"releaseDate": "11-19-1993",
+					"developer": "Capcom",
+					"publisher": "Capcom"
+				}
+			]
+		},
+		{
+			"platform": "Super Nintendo",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"original": "スーパーストリートファイターII",
+					"releaseDate": "06-25-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "snes-jp-front.webp"
+				},
+				{
+					"region": "United States",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"releaseDate": "07-18-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "snes-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"releaseDate": "08-24-1994",
+					"developer": "Capcom",
+					"publisher": "Nintendo",
+					"coverFront": "snes-eu-front.webp"
+				}
+			]
+		},
+		{
+			"platform": "Genesis",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"original": "スーパーストリートファイターII",
+					"releaseDate": "06-25-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "genesis-jp-front.webp"
+				},
+				{
+					"region": "United States",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"releaseDate": "07-18-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "genesis-us-front.webp"
+				},
+				{
+					"region": "Europe",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"releaseDate": "08-24-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "genesis-eu-front.webp"
+				}
+			]
+		},
+		{
+			"platform": "X68000",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"original": "スーパーストリートファイターII",
+					"releaseDate": "09-30-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "x68000-jp-front.webp"
+				}
+			]
+		},
+		{
+			"platform": "FM Towns",
+			"regions": [
+				{
+					"region": "Japan",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"original": "スーパーストリートファイターII",
+					"releaseDate": "10-28-1994",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "fmtowns-jp-front.webp"
+				}
+			]
+		},
+		{
+			"platform": "PC",
+			"regions": [
+				{
+					"region": "United States",
+					"roman": "Super Street Fighter II: The New Challengers",
+					"original": "スーパーストリートファイターII",
+					"releaseDate": "1996",
+					"developer": "Capcom",
+					"publisher": "Capcom",
+					"coverFront": "pc-us-front.webp"
+				}
+			]
+		}
+	],
+	"characters": [
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Ryu"
+				},
+				{
+					"region": "japan",
+					"roman": "Ryu",
+					"original": "リュウ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Ken Masters"
+				},
+				{
+					"region": "japan",
+					"roman": "Ken Masters",
+					"original": "ケン・マスターズ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Chun-Li"
+				},
+				{
+					"region": "japan",
+					"roman": "Chun-Li",
+					"original": "チュンリー"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Dhalsim"
+				},
+				{
+					"region": "japan",
+					"roman": "Dhalsim",
+					"original": "ダルシム"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "M. Bison"
+				},
+				{
+					"region": "japan",
+					"roman": "Vega",
+					"original": "ベガ"
+				}
+			]
+		},
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Vega"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Balrog",
+                    "original": "バルログ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Zangief"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Zangief",
+                    "original": "ザンギエフ"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Guile"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Guile",
+                    "original": "ガイル"
+                }
+            ]
+        },
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Balrog"
+                },
+                {
+                    "region": "japan",
+                    "roman": "M. Bison",
+                    "original": "マイク・バイソン"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Blanka"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Blanka",
+                    "original": "ブランカ"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Sagat"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Sagat",
+                    "original": "サガット"
+                }
+            ]
+        },        
+        { 
+            "regions": [
+                {
+                    "region": "default",
+                    "roman": "Edmond Honda"
+                },
+                {
+                    "region": "japan",
+                    "roman": "Edmond Honda",
+                    "original": "エドモンド本田"
+                }
+            ]
+        },
+        { 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Cammy White"
+				},
+				{
+					"region": "japan",
+					"roman": "Cammy White",
+					"original": "キャミィ・ホワイト"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Fei Long"
+				},
+				{
+					"region": "japan",
+					"roman": "Fei Long",
+					"original": "フェイロン"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Dee Jay"
+				},
+				{
+					"region": "japan",
+					"roman": "Dee Jay",
+					"original": "ディージェイ"
+				}
+			]
+		},
+		{ 
+			"regions": [
+				{
+					"region": "default",
+					"roman": "Thunder Hawk"
+				},
+				{
+					"region": "japan",
+					"roman": "Thunder Hawk",
+					"original": "サンダー・ホーク"
+				}
+			]
+		}     
+	]
+}
