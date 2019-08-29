@@ -1,0 +1,12 @@
+{
+    "english": {
+    	"normalThrows": "Normal Throws",
+    	"uniqueAttacks": "Unique Attacks",
+        "specialMoves": "Special Moves"
+    },
+    "portuguese": {
+        "normalThrows": "Agarrões Normais",
+    	"uniqueAttacks": "Ataques Únicos",
+        "specialMoves": "Golpes Especiais"
+    }
+}
