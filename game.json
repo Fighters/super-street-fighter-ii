@@ -1,26 +1,24 @@
 {
-	"romans": {
-		"regions": [
-			{ 
-				"region": "default",
-				"roman": "Super Street Fighter II: The New Challengers"
-			},
-			{
-				"region": "japan",
-				"roman": "Super Street Fighter II: The New Challengers",
-				"original": "スーパーストリートファイターII"
-			}
-		],
-		"also-known-as": [
-			"ssf2", "super", "super sf2"
-		]
-	},
+	"names": [
+		{
+			"region": "default",
+			"roman": "Super Street Fighter II: The New Challengers"
+		},
+		{
+			"region": "japan",
+			"roman": "Super Street Fighter II: The New Challengers",
+			"original": "スーパーストリートファイターII"
+		}
+	],
+	"also-known-as": [
+		"ssf2", "super", "super sf2"
+	],
 	"platforms": [
 		{
-			"platform": "Arcade",
+			"name": "Arcade",
 			"regions": [
 				{
-					"region": "Japan",
+					"name": "Japan",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"original": "スーパーストリートファイターII",
 					"releaseDate": "09-10-1993",
@@ -28,14 +26,14 @@
 					"publisher": "Capcom"
 				},
 				{
-					"region": "United States",
+					"name": "United States",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"releaseDate": "09-11-1993",
 					"developer": "Capcom",
 					"publisher": "Capcom"
 				},
 				{
-					"region": "Europe",
+					"name": "Europe",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"releaseDate": "11-19-1993",
 					"developer": "Capcom",
@@ -44,10 +42,10 @@
 			]
 		},
 		{
-			"platform": "Super Nintendo",
+			"name": "Super Nintendo",
 			"regions": [
 				{
-					"region": "Japan",
+					"name": "Japan",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"original": "スーパーストリートファイターII",
 					"releaseDate": "06-25-1994",
@@ -56,7 +54,7 @@
 					"coverFront": "snes-jp-front.webp"
 				},
 				{
-					"region": "United States",
+					"name": "United States",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"releaseDate": "07-18-1994",
 					"developer": "Capcom",
@@ -64,7 +62,7 @@
 					"coverFront": "snes-us-front.webp"
 				},
 				{
-					"region": "Europe",
+					"name": "Europe",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"releaseDate": "08-24-1994",
 					"developer": "Capcom",
@@ -74,10 +72,10 @@
 			]
 		},
 		{
-			"platform": "Genesis",
+			"name": "Genesis",
 			"regions": [
 				{
-					"region": "Japan",
+					"name": "Japan",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"original": "スーパーストリートファイターII",
 					"releaseDate": "06-25-1994",
@@ -86,7 +84,7 @@
 					"coverFront": "genesis-jp-front.webp"
 				},
 				{
-					"region": "United States",
+					"name": "United States",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"releaseDate": "07-18-1994",
 					"developer": "Capcom",
@@ -94,7 +92,7 @@
 					"coverFront": "genesis-us-front.webp"
 				},
 				{
-					"region": "Europe",
+					"name": "Europe",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"releaseDate": "08-24-1994",
 					"developer": "Capcom",
@@ -104,10 +102,10 @@
 			]
 		},
 		{
-			"platform": "X68000",
+			"name": "X68000",
 			"regions": [
 				{
-					"region": "Japan",
+					"name": "Japan",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"original": "スーパーストリートファイターII",
 					"releaseDate": "09-30-1994",
@@ -118,10 +116,10 @@
 			]
 		},
 		{
-			"platform": "FM Towns",
+			"name": "FM Towns",
 			"regions": [
 				{
-					"region": "Japan",
+					"name": "Japan",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"original": "スーパーストリートファイターII",
 					"releaseDate": "10-28-1994",
@@ -132,10 +130,10 @@
 			]
 		},
 		{
-			"platform": "PC",
+			"name": "PC",
 			"regions": [
 				{
-					"region": "United States",
+					"name": "United States",
 					"roman": "Super Street Fighter II: The New Challengers",
 					"original": "スーパーストリートファイターII",
 					"releaseDate": "1996",
@@ -145,215 +143,5 @@
 				}
 			]
 		}
-	],
-	"characters": [
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Ryu"
-				},
-				{
-					"region": "japan",
-					"roman": "Ryu",
-					"original": "リュウ"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Ken Masters"
-				},
-				{
-					"region": "japan",
-					"roman": "Ken Masters",
-					"original": "ケン・マスターズ"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Chun-Li"
-				},
-				{
-					"region": "japan",
-					"roman": "Chun-Li",
-					"original": "チュンリー"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Dhalsim"
-				},
-				{
-					"region": "japan",
-					"roman": "Dhalsim",
-					"original": "ダルシム"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "M. Bison"
-				},
-				{
-					"region": "japan",
-					"roman": "Vega",
-					"original": "ベガ"
-				}
-			]
-		},
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Vega"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Balrog",
-                    "original": "バルログ"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Zangief"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Zangief",
-                    "original": "ザンギエフ"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Guile"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Guile",
-                    "original": "ガイル"
-                }
-            ]
-        },
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Balrog"
-                },
-                {
-                    "region": "japan",
-                    "roman": "M. Bison",
-                    "original": "マイク・バイソン"
-                }
-            ]
-        },        
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Blanka"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Blanka",
-                    "original": "ブランカ"
-                }
-            ]
-        },        
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Sagat"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Sagat",
-                    "original": "サガット"
-                }
-            ]
-        },        
-        { 
-            "regions": [
-                {
-                    "region": "default",
-                    "roman": "Edmond Honda"
-                },
-                {
-                    "region": "japan",
-                    "roman": "Edmond Honda",
-                    "original": "エドモンド本田"
-                }
-            ]
-        },
-        { 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Cammy White"
-				},
-				{
-					"region": "japan",
-					"roman": "Cammy White",
-					"original": "キャミィ・ホワイト"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Fei Long"
-				},
-				{
-					"region": "japan",
-					"roman": "Fei Long",
-					"original": "フェイロン"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Dee Jay"
-				},
-				{
-					"region": "japan",
-					"roman": "Dee Jay",
-					"original": "ディージェイ"
-				}
-			]
-		},
-		{ 
-			"regions": [
-				{
-					"region": "default",
-					"roman": "Thunder Hawk"
-				},
-				{
-					"region": "japan",
-					"roman": "Thunder Hawk",
-					"original": "サンダー・ホーク"
-				}
-			]
-		}     
 	]
 }
